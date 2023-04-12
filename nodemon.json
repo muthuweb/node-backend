@@ -1,9 +1,0 @@
-{
-  "env": {
-    "DB_NAME": "muthu-dev",
-    "DB_USER": "krishDB-root",
-    "DB_PASSWORD": "Shm8PCNjcD6moIqG",
-    "PORT": 8000,
-    "HOST": "http://localhost"
-  }
-}
